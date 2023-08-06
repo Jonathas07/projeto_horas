@@ -61,3 +61,7 @@ footer{
     transition: 2s; 
     margin-left: 10px;  
 }
+
+.logo-git:hover{
+    transform: scale(1.2);
+}
