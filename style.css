@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 150px;
+    background-color: transparent;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 75px;
+    background-color: transparent;
+}
+div{
+    text-align: center;
+    box-shadow: 5px 5px 10px black;
+}
+#centro{
+    background-color: white;
+    width: 40%;
+    height: 300px;
+    border-radius: 40px;
+    margin: auto;
+
+}
+
+#textoHora{
+    font-size: 25px;
+    padding-top: 30px;
+    background: transparent;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 15px;
+    border-radius: 100%;
+}
+#textoFooter{
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    background-color: transparent;
+}
