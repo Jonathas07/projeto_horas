@@ -5,7 +5,7 @@ function carregar(){
     // let horas = 01
     var textoHora = window.document.getElementById('textoHora')
     var imagem = window.document.getElementById('foto')
-    textoHora.innerHTML = `Agora São ${horas}:${minutos} horas`
+    textoHora.innerHTML = `São exatamente ${horas}:${minutos} horas`
     if(horas<12&&horas>=6){
         window.document.body.style.backgroundColor = 'rgb(216, 204, 69)'
         imagem.src= 'https://images.pexels.com/photos/955656/pexels-photo-955656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 '
