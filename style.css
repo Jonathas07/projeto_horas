@@ -49,3 +49,15 @@ img{
     font-style: italic;
     background-color: transparent;
 }
+
+footer{
+    display: flex; 
+    margin-left: 600px;
+}
+
+.logo-git{
+    width: 25px;
+    height: auto;
+    transition: 2s; 
+    margin-left: 10px;  
+}
